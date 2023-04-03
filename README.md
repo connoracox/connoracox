@@ -1,6 +1,7 @@
 Hello there!
 
-- My name is Connor Cox, I am a recent graduate of Coding Temple
+- My name is Connor Cox
+- I am a graduate of Coding Temple's Full-Stack Software Engineering Program
 - I am open to jobs in full-stack, front-end, and back-end Software Engineering
 
 - Pronouns: He/Him
