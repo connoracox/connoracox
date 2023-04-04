@@ -1,10 +1,9 @@
 Hello there!
 
-- My name is Connor Cox
+- My name is Connor Cox (He/Him)
+- - I am open to jobs in full-stack, front-end, and back-end Software Engineering
 - I am a graduate of Coding Temple's Full-Stack Software Engineering Program
-- I am open to jobs in full-stack, front-end, and back-end Software Engineering
 
-- Pronouns: He/Him
 - Creator of the BreadBox App
 - I’m currently practicing and learning more about Express
 
