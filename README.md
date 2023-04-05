@@ -6,6 +6,7 @@ Hello there!
 
 - Creator of the [BreadBox App](https://github.com/connoracox/Capstone_Project_BreadBox_App.git)
 - I’m currently practicing and learning more about Express
+- My favorite technologies are Flask and React
 
 - How to reach me: 
 - Email: connor.a.cox@gmail.com
