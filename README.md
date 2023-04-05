@@ -8,6 +8,6 @@ Hello there!
 - I’m currently practicing and learning more about Express
 
 - How to reach me: 
-- Email: connor.a.cox@gmail.com
-- LinkedIn: https://www.linkedin.com/in/connor-cox-13215069/
+- Email: [Email me!] (connor.a.cox@gmail.com)
+- LinkedIn: [Connor Cox LinkedIn Page] (https://www.linkedin.com/in/connor-cox-13215069/)
 
